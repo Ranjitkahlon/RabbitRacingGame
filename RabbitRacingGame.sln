@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitRacingGame", "RabbitRacingGame\RabbitRacingGame.csproj", "{F35838DD-E2E3-41B6-8346-E1798999B1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitRacingGameTests", "RabbitRacingGameTests\RabbitRacingGameTests.csproj", "{80540372-4223-4BEC-B984-CF24F0F9445F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35838DD-E2E3-41B6-8346-E1798999B1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35838DD-E2E3-41B6-8346-E1798999B1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35838DD-E2E3-41B6-8346-E1798999B1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35838DD-E2E3-41B6-8346-E1798999B1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80540372-4223-4BEC-B984-CF24F0F9445F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80540372-4223-4BEC-B984-CF24F0F9445F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80540372-4223-4BEC-B984-CF24F0F9445F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80540372-4223-4BEC-B984-CF24F0F9445F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C3515A-20A0-444E-AB74-114BB25CA3DE}
+	EndGlobalSection
+EndGlobal
